@@ -21,13 +21,13 @@ A simple and interactive Typing Speed Tester built with HTML ,CSS and JavaScript
 - Click Try Again to start a new test
 # Project Structure 
 Typing-Tester/
-│
+<pre>│
 ├── index.html
 ├── style.css
 ├── js/
 │   └── script.js
 │
-└── README.md
+└── README.md</pre>
 # Live Demo 
 https://clever-rolypoly-73f545.netlify.app/
 # Project Preview
