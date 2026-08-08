@@ -121,15 +121,3 @@ body{
 
 }
 
-.result-details li span{
-    display: block;
-    font-size: 20px;
-    margin-left: 10px;
-}
-.result-details li:not(:first-child) span{
-    font-weight: 500;
-}
-.result-details li b{
-    font-weight: 500;
-     
-}
