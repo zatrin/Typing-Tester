@@ -82,4 +82,6 @@ function resetGame() {
        wpmTag.innerText = 0;
        cpmTag.innerText = 0;
 }
-
+randomParagraph();
+inpField.addEventListener("input",initTyping);
+tryAgainBtn.addEventListener("click",resetGame);
